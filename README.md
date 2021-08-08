@@ -1,4 +1,5 @@
-You should add a database and some table for running this CRUD <br>
+Clone this repo into your htdocs<br>
+And you should add a database and some table for running this CRUD <br>
 1.go to phpmyadmin<br>
 2. create database 'baf'<br>
 3. create table 'baf emplo'<br>
