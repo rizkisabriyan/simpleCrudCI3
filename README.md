@@ -6,4 +6,4 @@ You should add a database and some table for running this CRUD <br>
 5.                  employee_name, varchar(25).<br>
 6.                  div, varchar(30).<br>
 7.                  mobile_no, varchar (12).<br>             
-10.              '<br>
+8.               '<br>
